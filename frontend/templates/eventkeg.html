@@ -1,0 +1,158 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+
+<link rel="stylesheet" href="{% static 'css/eventkeg.css' %}" />
+
+<div style="height: 150vh; background-color: #92272d">
+  <div class="main-div-eventkeg">
+    <div class="title-div">
+      <div class="title-inner">
+        <div class="title-design-eventkeg">
+          <h1 class="content-title-design-eventkeg">Events</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pembatas-main-detailartikel">
+    <p class="title-main-eventkeg">Kegiatan Belajar & Hasil Karya Siswa</p>
+  </div>
+
+  <div class="konten-isi-detailartikel">
+    <div id="carousel-1" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-1" data-slide-to="1"></li>
+        <li data-target="#carousel-1" data-slide-to="2"></li>
+        <li data-target="#carousel-1" data-slide-to="3"></li>
+      </ol>
+
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <!-- konten carousel -->
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <!-- konten carousel -->
+        </div>
+
+        <div class="carousel-item">
+          <!-- konten carousel -->
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <!-- konten carousel -->
+        </div>
+
+        <div class="carousel-item">
+          <!-- konten carousel -->
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <!-- konten carousel -->
+        </div>
+
+        <div class="carousel-item">
+          <!-- konten carousel -->
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <img
+                  src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <!-- konten carousel -->
+        </div>
+      </div>
+      <!-- e carousel-inner -->
+
+      <a
+        class="carousel-control-prev"
+        href="#carousel-1"
+        role="button"
+        data-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">prev</span>
+      </a>
+
+      <a
+        class="carousel-control-next"
+        href="#carousel-1"
+        role="button"
+        data-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">next</span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<script>
+  $("#carousel-1").carousel({
+    interval: 4000,
+    wrap: true,
+    keyboard: true,
+  });
+</script>
+
+{% endblock content %}
