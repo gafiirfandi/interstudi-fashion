@@ -1,4 +1,6 @@
-{% extends 'base.html' %} {% load static %} {% block content %}
+{% extends 'base.html' %} 
+{% load static %} 
+{% block content %}
 
 <link rel="stylesheet" href="{% static 'css/eventint.css' %}" />
 
@@ -35,58 +37,30 @@
           class="carousel slide caraousel-one"
           data-ride="carousel"
         >
-          <ol class="carousel-indicators">
-            <li
-              data-target="#carouselExampleIndicators"
-              data-slide-to="0"
-              class="active"
-            ></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
           <div class="carousel-inner">
+            {% for img2015 in fashion_show_2015_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2015 %}"
                   alt="Slide"
                 />
               </div>
             </div>
+            {% else %}
             <div class="carousel-item">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2015 %}"
                   alt="Slide"
                 />
               </div>
             </div>
-            <div class="carousel-item">
-              <div class="itemimg">
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-              </div>
-            </div>
+            {% endif %}
+            {% endfor %}
           </div>
           <a
             class="carousel-control-prev"
@@ -109,77 +83,40 @@
         </div>
       </div>
       <div class="tahunkedua">
-        <h1 class="title-kind-fashionshow">InterStudi Fashion Show 2015</h1>
+        <h1 class="title-kind-fashionshow">InterStudi Fashion Show 2016</h1>
         <div id="carousel-1" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
+          <!-- <ol class="carousel-indicators">
             <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-1" data-slide-to="1"></li>
             <li data-target="#carousel-1" data-slide-to="2"></li>
             <li data-target="#carousel-1" data-slide-to="3"></li>
-          </ol>
+          </ol> -->
 
           <div class="carousel-inner" role="listbox">
+            {% for img2016 in fashion_show_2016_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2016 %}"
                   alt="Slide"
                 />
               </div>
             </div>
-
+            {% else %}
             <div class="carousel-item">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2016 %}"
                   alt="Slide"
                 />
               </div>
             </div>
-
-            <div class="carousel-item">
-              <div class="itemimg">
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-              </div>
-            </div>
-
-            <div class="carousel-item">
-              <div class="itemimg">
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-              </div>
-            </div>
+            {% endif %}
+            {% endfor %}
           </div>
-          <!-- e carousel-inner -->
 
           <a
             class="carousel-control-prev"
@@ -204,7 +141,7 @@
         <!-- e carousel -->
       </div>
       <div class="tahunketiga">
-        <h1 class="title-kind-fashionshow">InterStudi Fashion Show 2015</h1>
+        <h1 class="title-kind-fashionshow">InterStudi Fashion Show 2017</h1>
         <p>
           Lembaga Pelatihan InterStudi bekerjasama dengan Mall Kemang Village
           menyelenggarakan fashion show hasil karya busana siswa-siswi fashion
@@ -215,75 +152,31 @@
           Kretadiasa dan juri dari pengamat mode dan make up artis Indonesia.
         </p>
         <div id="carousel-2" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carousel-2" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel-2" data-slide-to="1"></li>
-            <li data-target="#carousel-2" data-slide-to="2"></li>
-            <li data-target="#carousel-2" data-slide-to="3"></li>
-          </ol>
 
           <div class="carousel-inner" role="listbox">
+            {% for img2017 in fashion_show_2017_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2017 %}"
                   alt="Slide"
                 />
               </div>
             </div>
-
+            {% else %}
             <div class="carousel-item">
               <div class="itemimg">
                 <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2017 %}"
                   alt="Slide"
                 />
               </div>
             </div>
-
-            <div class="carousel-item">
-              <div class="itemimg">
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-              </div>
-            </div>
-
-            <div class="carousel-item">
-              <div class="itemimg">
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-                <img
-                  class="d-block w-50"
-                  src="{% static 'img/image-adji.png' %}"
-                  alt="Slide"
-                />
-              </div>
-            </div>
-          </div>
-          <!-- e carousel-inner -->
+            {% endif %}
+            {% endfor %}
 
           <a
             class="carousel-control-prev"
@@ -310,20 +203,7 @@
     </div>
   </div>
 </div>
+</div>
 
-<script>
-  $("#carousel-1").carousel({
-    interval: 4000,
-    wrap: true,
-    keyboard: true,
-  });
-
-  /* 2 carousel */
-  $("#carousel-2").carousel({
-    interval: 6000,
-    wrap: true,
-    keyboard: true,
-  });
-</script>
 
 {% endblock content %}

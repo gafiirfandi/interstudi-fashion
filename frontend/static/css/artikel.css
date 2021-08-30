@@ -21,14 +21,12 @@
   text-align: center;
   line-height: 1;
   font-size: 50px;
-  letter-spacing: 3.4px;
 }
 
 .content-title-design-artikel2 {
   text-align: center;
   line-height: 0.7;
   font-size: 70px;
-  letter-spacing: 3.4px;
 }
 .title-design-program {
   align-items: center;
@@ -104,12 +102,10 @@
   }
   .content-title-design-artikel1 {
     font-size: 40px;
-    letter-spacing: 2.4px;
   }
 
   .content-title-design-artikel2 {
     font-size: 60px;
-    letter-spacing: 2.4px;
   }
   .image-card-artikel {
     display: block;

@@ -16,6 +16,7 @@ p {
 
 .navbar {
   background-color: transparent;
+  transition: 0.1s ease-in;
 }
 
 .nav-link {
@@ -26,6 +27,11 @@ p {
   padding-right: 1rem !important;
   padding-left: 1rem !important;
   transition: 0.3s ease-in;
+}
+
+.colored {
+  background-color: #ac2931;
+  transition: 0.1s ease-in;
 }
 
 .dropdown-item {
@@ -104,7 +110,6 @@ p {
   text-align: right;
   line-height: 0.7;
   font-size: 70px;
-  letter-spacing: 3.4px;
 }
 
 .detail-main-div {
@@ -141,7 +146,6 @@ p {
 }
 
 .about-right {
-  letter-spacing: 2px;
   margin-top: 70px;
   margin-left: -40px;
   color: #ffc5c4;
@@ -186,13 +190,11 @@ p {
   text-align: center;
   line-height: 0.7;
   font-size: 60px;
-  letter-spacing: 3.4px;
 }
 .content-materi-design-2 {
   text-align: right !important;
   line-height: 0.7;
   font-size: 60px;
-  letter-spacing: 3.4px;
 }
 
 /* section konten materi design  */
@@ -335,7 +337,6 @@ p {
 .detail-angsuran {
   font-style: italic;
   text-decoration: underline solid rgb(255, 255, 255);
-  letter-spacing: 1.5px;
 }
 
 .maps {
@@ -352,16 +353,15 @@ p {
 
 @media (max-width: 1200px) {
   /* section pertama */
-  .indexpage {
+  /* .indexpage {
     height: 900vh !important;
-  }
+  } */
   .main-div {
     height: 400px;
   }
   .content-title-design {
     text-align: center;
     font-size: 45px;
-    letter-spacing: 1.4px;
   }
 
   .detail-main-div {
@@ -397,7 +397,6 @@ p {
   }
 
   .about-right {
-    letter-spacing: 2px;
     margin-top: 50px;
     margin-left: 0px;
     color: #ffc5c4;
@@ -435,13 +434,11 @@ p {
     text-align: center;
     line-height: 1.2;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   .content-materi-design-2 {
     text-align: center !important;
     line-height: 0.7;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   /* Bagian card  */
   .isi-card-matdes {
@@ -509,7 +506,6 @@ p {
     font-size: 17px;
     font-style: italic;
     text-decoration: underline solid rgb(255, 255, 255);
-    letter-spacing: 1.5px;
   }
 
   /* section maps  */
@@ -528,16 +524,15 @@ p {
 
 @media (max-width: 800px) {
   /* section pertama */
-  .indexpage {
+  /* .indexpage {
     height: 1370vh !important;
-  }
+  } */
   .main-div {
     height: 450px;
   }
   .content-title-design {
     text-align: center;
     font-size: 45px;
-    letter-spacing: 1.4px;
   }
 
   .detail-main-div {
@@ -573,7 +568,6 @@ p {
   }
 
   .about-right {
-    letter-spacing: 2px;
     margin-top: 50px;
     margin-left: 0px;
     color: #ffc5c4;
@@ -611,13 +605,11 @@ p {
     text-align: center;
     line-height: 1.2;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   .content-materi-design-2 {
     text-align: center !important;
     line-height: 0.7;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   /* Bagian card  */
   .isi-card-matdes {
@@ -685,7 +677,6 @@ p {
     font-size: 17px;
     font-style: italic;
     text-decoration: underline solid rgb(255, 255, 255);
-    letter-spacing: 1.5px;
   }
 
   /* section maps  */
@@ -710,7 +701,6 @@ p {
   .content-title-design {
     text-align: center;
     font-size: 45px;
-    letter-spacing: 1.4px;
   }
 
   .detail-main-div {
@@ -746,7 +736,6 @@ p {
   }
 
   .about-right {
-    letter-spacing: 2px;
     margin-top: 50px;
     margin-left: 0px;
     color: #ffc5c4;
@@ -785,13 +774,11 @@ p {
     text-align: center;
     line-height: 1.2;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   .content-materi-design-2 {
     text-align: center !important;
     line-height: 0.7;
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   /* Bagian card  */
   .isi-card-matdes {
@@ -859,7 +846,6 @@ p {
     font-size: 14px;
     font-style: italic;
     text-decoration: underline solid rgb(255, 255, 255);
-    letter-spacing: 1.5px;
   }
   .maps {
     margin-top: 10px;

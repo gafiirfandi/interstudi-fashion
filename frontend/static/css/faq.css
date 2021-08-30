@@ -1,6 +1,7 @@
 .page-faq {
-  height: 150vh;
+  min-height: 120vh;
   background-color: #a7242c;
+  padding-bottom: 100px;
 }
 .main-div-faq {
   position: relative;
@@ -38,7 +39,6 @@
   text-align: right;
   line-height: 0.7;
   font-size: 70px;
-  letter-spacing: 3.4px;
   margin-top: 50px;
 }
 
@@ -120,22 +120,15 @@ input:focus {
   transform: translateY(-10px);
   transition: all 0.4s ease-in-out;
 }
-@media (max-width: 1200px) {
-  .page-faq {
-    height: 200vh;
-  }
-}
 
 @media (max-width: 800px) {
   .page-faq {
-    height: 180vh;
     background-color: #a7242c;
   }
   .content-title-design-faq {
     text-align: right;
     line-height: 0.7;
     font-size: 60px;
-    letter-spacing: 3.4px;
     margin-top: 50px;
   }
   .card-faq {

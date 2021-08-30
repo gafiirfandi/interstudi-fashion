@@ -46,11 +46,17 @@
               >Tentang Pengajar</a
             >
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Program Studi</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{% url 'eventint' %}">Event</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Event
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{% url 'eventint' %}">Interstudi Nite</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="{% url 'eventsem' %}">Seminar</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="{% url 'eventkeg' %}">Kegiatan Belajar</a>
+            </div>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{% url 'faq' %}">Hubungi Kami</a>
@@ -189,14 +195,26 @@
       crossorigin="anonymous"
     ></script>
     <script>
+
+      const isMobile = navigator.userAgentData.mobile;
+
+      console.log(isMobile)
+
+      if(isMobile) {
+        $(".navbar").addClass("colored");
+        $(".nav-link").addClass("colored-link");
+      }
+
       $(function () {
         $(window).on("scroll", function () {
-          if ($(window).scrollTop() > 10) {
-            $(".navbar").addClass("colored");
-            $(".nav-link").addClass("colored-link");
-          } else {
-            $(".navbar").removeClass("colored");
-            $(".nav-link").removeClass("colored-link");
+          if(!isMobile) {
+            if ($(window).scrollTop() > 10) {
+              $(".navbar").addClass("colored");
+              $(".nav-link").addClass("colored-link");
+            } else {
+              $(".navbar").removeClass("colored");
+              $(".nav-link").removeClass("colored-link");
+            }
           }
         });
       });

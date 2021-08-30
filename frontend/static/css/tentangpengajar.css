@@ -1,5 +1,5 @@
 .page-tentang-pengajar {
-  height: 370vh;
+  /* height: 370vh; */
   background-color: #a7242c;
 }
 
@@ -33,7 +33,6 @@
   text-align: center;
   line-height: 0.7;
   font-size: 50px;
-  letter-spacing: 3.4px;
 }
 
 #firstname {
@@ -46,7 +45,6 @@
 .detail-main-div-tentangpengajar {
   margin-top: 0px;
   width: 70%;
-  letter-spacing: 1.5px;
 }
 
 #portofolio-pengajar {
@@ -70,7 +68,6 @@ ul.isi-portofolio {
 }
 
 .about-right-tentangpengajar {
-  letter-spacing: 2px;
   margin-top: 4 0px;
   margin-left: -40px;
   color: #ffc5c4;
@@ -113,15 +110,15 @@ ul.isi-portofolio {
   border: 1px solid rgba(255, 250, 250, 0.125);
 }
 
-a {
+.page-tentang-pengajar a {
   color: #ffc5c4 !important;
 }
 
 @media (max-width: 900px) {
   /* Section pertama */
-  .page-tentang-pengajar {
+  /* .page-tentang-pengajar {
     height: 610vh;
-  }
+  } */
   .main-div-tentangpengajar {
     position: relative;
 
@@ -143,7 +140,6 @@ a {
   }
   .content-title-tentangpengajar {
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   #firstname {
     font-size: 70px !important;
@@ -174,7 +170,6 @@ a {
   }
 
   .about-right-tentangpengajar {
-    letter-spacing: 2px;
     margin-top: 4 0px;
     margin-left: 0px;
     color: #ffc5c4;
@@ -191,9 +186,9 @@ a {
 
 @media (max-width: 550px) {
   /* Section pertama */
-  .page-tentang-pengajar {
+  /* .page-tentang-pengajar {
     height: 580vh;
-  }
+  } */
 
   .inner-tentangpengajar {
     margin-top: 100px !important;
@@ -201,7 +196,6 @@ a {
   }
   .content-title-tentangpengajar {
     font-size: 40px;
-    letter-spacing: 2.4px;
   }
   #firstname {
     font-size: 60px !important;
@@ -228,7 +222,6 @@ a {
   }
 
   .about-right-tentangpengajar {
-    letter-spacing: 2px;
     margin-top: 4 0px;
     margin-left: 0px;
     color: #ffc5c4;
@@ -237,9 +230,9 @@ a {
 
 @media (max-width: 400px) {
   /* Section pertama */
-  .page-tentang-pengajar {
+  /* .page-tentang-pengajar {
     height: 600vh;
-  }
+  } */
 
   .inner-tentangpengajar {
     margin-top: 100px !important;
@@ -247,7 +240,6 @@ a {
   }
   .content-title-tentangpengajar {
     font-size: 40px;
-    letter-spacing: 2.4px;
   }
   #firstname {
     font-size: 60px !important;
@@ -274,7 +266,6 @@ a {
   }
 
   .about-right-tentangpengajar {
-    letter-spacing: 2px;
     margin-top: 4 0px;
     margin-left: 0px;
     color: #ffc5c4;

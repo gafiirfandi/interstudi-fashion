@@ -1,6 +1,6 @@
 .page-programlainnya {
-  height: 570vh;
   background-color: #a7242c;
+  padding-bottom: 100px;
 }
 
 .main-div-pengajar {
@@ -19,7 +19,6 @@
   text-align: right;
   line-height: 0.7;
   font-size: 60px;
-  letter-spacing: 3.4px;
 }
 .title-design-program {
   align-items: center;
@@ -132,7 +131,6 @@
 @media (max-width: 900px) {
   .content-title-design-programlainnya {
     font-size: 45px;
-    letter-spacing: 2.4px;
   }
   .card-interstudi {
     display: inline-block;

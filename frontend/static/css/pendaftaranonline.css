@@ -1,6 +1,7 @@
 .page-faq {
-  height: 200vh;
   background-color: #a7242c;
+  min-height: 150vh;
+  padding-bottom: 100px;
 }
 .main-div-faq {
   position: relative;
@@ -38,7 +39,6 @@
   text-align: right;
   line-height: 0.7;
   font-size: 70px;
-  letter-spacing: 3.4px;
   margin-top: 50px;
 }
 
@@ -197,22 +197,15 @@ select {
 
 /* Radio button  */
 
-@media (max-width: 1200px) {
-  .page-faq {
-    height: 200vh;
-  }
-}
 
 @media (max-width: 800px) {
   .page-faq {
-    height: 180vh;
     background-color: #a7242c;
   }
   .content-title-design-faq {
     text-align: right;
     line-height: 0.7;
     font-size: 60px;
-    letter-spacing: 3.4px;
     margin-top: 50px;
   }
   .card-faq {
@@ -229,7 +222,6 @@ select {
 }
 @media (max-width: 1000px) {
   .page-faq {
-    height: 280vh;
     background-color: #a7242c;
   }
   .content-title-design-faq {

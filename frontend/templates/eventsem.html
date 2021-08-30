@@ -38,71 +38,30 @@
           class="carousel slide caraousel-one"
           data-ride="carousel"
         >
-          <ol class="carousel-indicators">
-            <li
-              data-target="#carouselExampleIndicators"
-              data-slide-to="0"
-              class="active"
-            ></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
           <div class="carousel-inner">
+          {% for img2015 in sem2015_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2015 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
+            {% else %}
             <div class="carousel-item">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2015 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-            <div class="carousel-item">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+            {% endif %}
+            {% endfor %}
           <a
             class="carousel-control-prev"
             href="#carouselExampleIndicators"
@@ -121,53 +80,37 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>
+          </div>
         </div>
       </div>
       <div class="bagiankedua">
         <h1 class="title-kind-fashionshow">Seminar 29 November 2014</h1>
         <div id="carousel-1" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel-1" data-slide-to="1"></li>
-            <li data-target="#carousel-1" data-slide-to="2"></li>
-            <li data-target="#carousel-1" data-slide-to="3"></li>
-          </ol>
 
           <div class="carousel-inner" role="listbox">
+            {% for img2014 in sem2014_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2014 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-
+            {% else %}
             <div class="carousel-item">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2014 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-          </div>
+            {% endif %}
+            {% endfor %}
           <!-- e carousel-inner -->
 
           <a
@@ -189,6 +132,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">next</span>
           </a>
+        </div>
         </div>
         <!-- e carousel -->
       </div>
@@ -206,52 +150,31 @@
           oleh Adji Notonegoro
         </p>
         <div id="carousel-2" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carousel-2" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel-2" data-slide-to="1"></li>
-            <li data-target="#carousel-2" data-slide-to="2"></li>
-            <li data-target="#carousel-2" data-slide-to="3"></li>
-          </ol>
 
           <div class="carousel-inner" role="listbox">
+            {% for img2016 in sem2016_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2016 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-
+            {% else %}
             <div class="carousel-item">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img2016 %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-          </div>
+            {% endif %}
+            {% endfor %}
           <!-- e carousel-inner -->
 
           <a
@@ -273,6 +196,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">next</span>
           </a>
+          </div>
         </div>
         <!-- e carousel-->
       </div>
@@ -288,52 +212,31 @@
           ini M.Farhan dan narasumber pembicaranya Adji Notonegoro.
         </p>
         <div id="carousel-3" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carousel-3" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel-3" data-slide-to="1"></li>
-            <li data-target="#carousel-3" data-slide-to="2"></li>
-            <li data-target="#carousel-3" data-slide-to="3"></li>
-          </ol>
 
           <div class="carousel-inner" role="listbox">
+            {% for img_talkshow in talkshow_imgs %}
+            {% if forloop.counter == 1 %}
             <div class="carousel-item active">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img_talkshow %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-
+            {% else %}
             <div class="carousel-item">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                  <div class="col-xs-6 col-sm-6 col-md-6">
-                    <img
-                      class="image-eventsem"
-                      src="https://image.shutterstock.com/z/stock-photo-sleeping-disorders-as-a-reason-for-insomnia-293777093.jpg"
-                    />
-                  </div>
-                </div>
+              <div class="itemimg">
+                <img
+                  class="d-block w-50 m-auto"
+                  src="{% static 'img/'|add:img_talkshow %}"
+                  alt="Slide"
+                />
               </div>
             </div>
-          </div>
+            {% endif %}
+            {% endfor %}
           <!-- e carousel-inner -->
 
           <a
@@ -355,6 +258,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">next</span>
           </a>
+          </div>
         </div>
       </div>
     </div>

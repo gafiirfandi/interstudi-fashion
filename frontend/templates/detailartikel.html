@@ -7,26 +7,19 @@
     <div class="title-div">
       <div class="title-inner">
         <div class="title-design-detailartikel">
-          <h1 class="content-title-design-artikel1">Artikel</h1>
-          <h1 class="content-title-design-artikel2">Fashion</h1>
+          <h1>{{ artikel.title }}</h1>
         </div>
       </div>
     </div>
   </div>
-  <div class="pembatas-main-detailartikel">
+  <!-- <div class="pembatas-main-detailartikel">
     <p class="title-main-isiartikel">Tips Menggunakan Pakaian Baru</p>
-  </div>
+  </div> -->
 
   <div class="konten-isi-detailartikel">
     <div class="container isidetail-konten">
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
-        animi impedit laboriosam placeat quidem fugit vel, dolorem quia quod
-        amet consequuntur illo a corrupti! Consequatur harum placeat voluptas
-        dignissimos iusto! Lorem ipsum dolor sit amet, consectetur adipisicing
-        elit. Dolore, blanditiis repellendus nam vitae saepe velit dolorem
-        exercitationem hic consequuntur veritatis, repellat deleniti qui nostrum
-        nesciunt delectus nemo animi quos fuga!
+        {{ artikel.content|safe }}
       </p>
     </div>
   </div>

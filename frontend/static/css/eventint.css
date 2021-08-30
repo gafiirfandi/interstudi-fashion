@@ -1,5 +1,6 @@
 .eventint-page {
-  height: 350vh;
+  /* height: 350vh; */
+  padding-bottom: 100px;
   background-color: #92272d;
 }
 .main-div-eventint {
@@ -24,7 +25,6 @@
   text-align: center;
   line-height: 1;
   font-size: 50px;
-  letter-spacing: 3.4px;
 }
 
 .pembatas-main-detailartikel {
@@ -98,14 +98,13 @@
 }
 @media (max-width: 600px) {
   .eventint-page {
-    height: 300vh;
+    /* height: 300vh; */
     background-color: #92272d;
   }
   .content-title-design-eventint {
     text-align: center;
     line-height: 1;
     font-size: 45px;
-    letter-spacing: 3.4px;
   }
   .title-main-eventint {
     font-size: 6vw;
