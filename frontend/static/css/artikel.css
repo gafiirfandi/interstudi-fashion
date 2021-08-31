@@ -1,6 +1,7 @@
 .page-artikel {
-  height: 300vh;
+  /* height: 300vh; */
   background-color: #92272d;
+  padding-bottom: 100px;
 }
 .main-div-pengajar {
   position: relative;
@@ -62,6 +63,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  object-fit: cover;
+  filter: brightness(0.5);
   width: 200px;
   height: 250px;
 
