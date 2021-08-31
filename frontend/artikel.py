@@ -51,4 +51,350 @@ list_artikel = {
       Profesi fashion designer bukan hanya pada masalah bisa menggambar saja, namun banyak teknik penting lainnya yang harus dikuasai tentang pola, bahan, dan trend. Karena itu, jika ingin menjalani profesi ini, maka setidaknya Anda pernah mengikuti sekolah mode ataupun kursus yang berhubungan erat dengan dunia fashion seperti di InterStudi. Pendidikan yang di tawarkan InterStudi yaitu selama 6 bulan, dengan kompetensi lulusannya harus mampu membuat 2 karya desain yang memiliki nilai artistik dan bernilai jual dipasaran. Ilmu, pengetahuan, keahlian, dan pengalaman yang didapatkan dari sekolah fashion InterStudi, dapat menjadi modal utama guna menjadi seorang fashion designer. Salah satu alasannya adalah karena tim pengajar InterStudi berasal dari para praktisi dunia mode tanah air, seperti Adjie Notonegoro, Ivan Gunawan, Billy Tjong, Dimas Mahendra, Leana Maulany, dll.',
     'url': '4_cara_ampuh_menjadi_fashion_designer'
   },
+  'kunci_menjadi_desainer_sukses': {
+    'title': 'Kunci Menjadi Desainer Sukses',
+    'content': 'Apa rasanya suatu hari nanti rancangan Anda membalut tubuh Adelle saat menghadiri Grammy Awards 2016, seperti yang terjadi pada Ashley Isham, desainer asal Singapura? Atau, pernahkah Anda bermimpi memamerkan rancangan terbaru di Prêt A porter Paris, tempat para buyer besar dari seluruh dunia berkumpul, seperti Tube Gallery asal Thailand? Atau, menimbulkan rasa bangga saat membuka halaman Vogue Italia dan menemukan penyanyi RnB, Rihana, mengenakan topi rancangan Anda. Ditambah lagi bisa menembus pasar Jepang dan Hong Kong. Berikut adalah beberapa kunci sukses menjadi seorang desainer: \
+      <br> \
+      <br> \
+      <b>1. Wajib Kursus & Sekolah Fashion Design</b>\
+      <br> \
+      Pendidikan menjadi hal yang sangat penting untuk modal utama dalam menempuh karier sebagai fashion designer. Mengapa? Ilmu teknik merancang, menjahit, mengenal jenis material, hingga sejarah fashion yang dikenalkan secara detail selama masa pendidikan berlangsung, menjadi ilmu wajib yang harus dikuasai. Edukasi ini dapat dilakukan di dalam maupun luar negeri. Salah satu tempat kursus atau sekolah fashion design yang berada di Jakarta adalah InterStudi, lokasinya berada di Jl.Bulungan Jakarta Selatan. Lembaga Pendidikan InterStudi menyelenggarakan berbagai macam kursus singkat guna meningkatkan skill dan pengetahuan peserta didiknya.\
+      <br> \
+      Dibawah naungan mas Adji Notonegoro selaku Training Advisor desain busana program 6 bulan, siswa-siswi InterStudi mendapatkan pengetahuan dan pengalaman tentang dunia fashion desain dari beliau, selaku desainer kondang di tanah air. Siswa - siswi fashion design InterStudi berperan aktif dalam proses belajar mengajar dimana siswa harus membuat karya busana dengan tema yang berbeda. Proses pembuatannya mulai dari menggambar bentuk tubuh, pewarnaan, pemilihan bahan, membuat pola, menggunting, hingga menjahit bahan dasar dari pola – pola yang telah dibuat untuk menjadi suatu rancangan busana.\
+      <br> \
+      <br> \
+      <b>2. Mengikuti Ajang Kompetisi, Peragaan Busana & Exhibition</b>\
+      <br> \
+      Melalui kompetisi modelah seorang desainer dapat mengasah kemampuan dan menguji karyanya. Ajang kompetisi bisa menjadi tolok ukur dan ‘juri’ bagi diri sendiri, sehingga para desainer dapat terus mengembangkan dan memperbaiki kekurangan karyanya. Cara lain untuk menembus dunia internasional adalah melalui peragaan busana di dalam dan luar negeri. Jam terbang seorang perancang di atas runaway menjadi penanda eksistensi yang sangat nyata.\
+      <br> \
+      Melalui ajang-ajang inilah para desainer dapat langsung bertemu dengan media dan buyer dari dalam dan luar negeri. Selain itu, kompetisi, peragaan busana, hingga exhibition menjadi waktu yang tepat untuk mengenalkan dan ‘menjual’ rancangan masing-masing desainer pada dunia secara maksimal. Untuk itulah siswa dan alumni fashion design InterStudi berperan aktif dalam kegiatan fashion show dan exhibition baik yang diselenggarakan oleh tim pengajar InterStudi (para desainer tanah air) sendiri maupun yang berskala nasional.\
+      <br> \
+      <br> \
+      3. Keberanian dan Kepercayaan Diri\
+      <br> \
+      Kepercayaan diri yang sangat tinggi dicerminkan secara nyata oleh kedua desainer Tube Gallery yang tidak memiliki latar belakang pendidikan fashion. Saksit yang menimba ilmu theatre directing di Middlesex University, London, dan Phisit yang mengantongi gelar Western Classical Dance, Fine and Apply Arts dari Chulalongkorn University, Thailand, mampu menjadi perancang papan atas Thailand.\
+      <br> \
+      Mempelajari teknik merancang baju, proses produksi, penjualan, hingga mampu mengekspornya ke luar negeri dilalui Tube Gallery dengan uji coba berulang-ulang sejak tahun 2006 dan terus belajar dari kesalahan. Mengacu dari kisah tersebut, diharapkan para siswa dan alumni fashion design InterStudi mampu memacu kepercayaan dirinya sendiri dalam menjalani profesinya sebagai seorang desainer di tanah air.',
+    'url': 'kunci_menjadi_desainer_sukses'
+  },
+  'jenis_jenis_fashion_style': {
+    'title': 'Jenis-Jenis Fashion Style',
+    'content': 'Jika kamu menginginkan untuk menekuni dunia fashion, pada dasarnya kamu harus tau erlebih dahulu berbagai jnis style. Dengan kamu mengetahui jenis fashion akan mempermudah kamu untuk memilih fashion style yang sesuai dengan kamu dan kepribadian kamu.\
+      <br> \
+      <br> \
+      Setelah kamu dapat memilih salah satu dari beberapa fashion style tersebut maka kamu akan dapat memproduksi brand atau barang sesuai dengan ciri khas yang kamu miliki. Ketika kamu telah memilih salah satu dari fashion tersebut maka kamu harus mendalami jenis fashion style tersebut. Padukan antara pribadimu, karakter dengan jenis fashion style yang akan kamu usung tersebut.\
+      <br> \
+      <br> \
+      Jenis-jenis fashion style ini harus kamu kuasai terlebih dahulu sebelum kamu akan mendalami dalam dunia fashion. Jika kamu telah memahami arti dari istilah fashion style tersebut akan membuat kamu semakin mudah untuk belajar dan mengembangkan bakat yang kamu miliki.\
+      <br> \
+      <br> \
+      <h4>Berikut jenis-jenis fashion style:</h4>\
+      <br> \
+      <br> \
+      <b>Fashionista</b>\
+      <br> \
+      Fashionista adalah sebuah sebutan yang ditujukan untuk para penggila fashion. Namun sebagian orang juga menganggap bahwa orang yang memiliki style yang tinggi dan unik. Dapat mengkombinasikan antara berbagai gaya yang tetap dilihat indah juga di sebut dengan fashionista. Seiring berkembangnya jaman, sekarang fashionista menjadi sebutan untuk wanita yang memiliki gaya stylist dan gampang dikenali oelh tren fashion.\
+      <br> \
+      <br> \
+      <b>Ready to wear</b>\
+      <br> \
+      Ready to wear sama seperti Net a porter dalam bahasa perancis yang artinya siap pakai. Biasanya baju yang berlabel seperti ini memiliki banyak ukuran standar seperti Small, Medium, Large dan lainnya. Umumnya brand seperti ini di produksi dengan jumlah yang banyak.\
+      <br> \
+      <br> \
+      Houte couture\
+      <br> \
+      Houte couture merupakan bran atau suatu produk fashion yang telah dibuat khusus untuk satu klien tersebut. Ukuran dan warna serta semuanya material telah di sesuaikan dengan keinginan klien yang sama artinya dengan High dress making. Jadi houte couture dapat di katakan ssebagai kebalikan dari ready to wear.\
+      <br> \
+      <br> \
+      <b>Fashion season</b>\
+      <br> \
+      Tren fashion yang diadakan pada suatu fashion show biasanya selalu menggunakan tema. Nah fashion season ini dapat di katakan sebagai tema dalam sebuah fashion show. Biasanya terdapat dua musim yaitu Spring/Summer (musim panas) dan Fall/Winter (musim dingin). Pakaian yang biasanya di gunakan dalam fashion show ini sangat berpengaruh akan ke dua musim tersebut.\
+      <br> \
+      <br> \
+      <b>Fashion du Jour</b>\
+      <br> \
+      Fashion du jour ini mamng berasal dari negara Perancis yang menjadi pusat mode dunia yang diartikan dalam bahasa Indonesia sebagai hari ini. Fashion du jour dapat diartikan sebagai update tren terbaru. Segala yang dikembangkan dalam fashion du jour ini merujuk pada fashion terkini yang sedang hits.\
+      <br> \
+      <br> \
+      <b>Glitterati</b>\
+      <br> \
+      Para fashionista, selebriti dan sosialita yang memiliki style fashion yang indah, glamour dan selera yang tinggi termasuk dalam glitterati. Mereka merupakan sosok yang dapat mencuri perhatian publik dengan gaya yang mereka miliki dan fashionable.\
+      <br> \
+      <br> \
+      Pesona dan kharisma yang membuat inspirasi sehingga menjadi pusat perhatian publlik. Mereka akan selalu memperhatikan penampilannya dalam segala kondisi sehingga kerap kali menjadi erhatian dalam rfashion show dan kerap menjadi sampul majalah fashion.\
+      <br> \
+      <br> \
+      <b>Androgynous style</b>\
+      <br> \
+      Jenis-jenis fashion style selanjutnya yaitu Androgynous style yang biasanya wanita kerap berpakaian danbergaya seperti pria. Misalnya menggunakan celana lurus, blazer, qxford shoes dan lainnya yang berbau-bau pria.\
+      <br> \
+      <br> \
+      Itulah beberapa jenis-jenis fashion style yang perlu kamu ketahui jika kamu mneginginkan mmenjadi seorang desainer. Namun hal ini juga dapat menambah wawasan kamu mengenai dunia fashion yang fleksibel.',
+    'url': 'jenis_jenis_fashion_style'
+  },
+  'prinsip_prinsip_desain': {
+    'title': 'Prinsip-Prinsip Desain',
+    'content': 'Dalam mendesain tertentu membutuhkan pertimbangan beberapa prinsip-prinsip desain. Prinsip yang pertama adalah balance. Yang mana balance tersebut sama halnya mempertimbangkan stabilitas atau kesan terdapat daya tarik yang sama antara bagian yang satu dengan yang lain tanpa menghilangkan aksentuasi yang merupakan pusat perhatian pada susunan karya seni.Dalam menerapkan prinsip balance ini dalam mendesain harus menetapkan balance yang seperti apa. Hal ini dikarenakan balance sendiri terbagi menjadi empat hal antara lain keseimbangan sentral, keseimbangan simetris, keseimbangan inormal dan keseimbanga kontras\
+      <br> \
+      <br> \
+      Prinsip desain selanjutnya adalah unity yang adalah kesatuan yang dirubah dengan unsur yang mendominasi dan kurang mendominasi dan juga kedekatan dalam sebuah komposisi karya seni, selain itu prinsip desain lainnya adalah ritme. Dimana ritme ini adalah susunan yang teratur dari unsur yang berulang dalam sebuah karya seni.Prinsip yang terakhir adalah proporsi adalah perbandingan ukuran yang ideal dari sebuah objek.\
+      <br> \
+      <br> \
+      <b>Manfaat Desain</b>\
+      <br> \
+      Terdapat manfaat desain dalam kehidupan sehari-hari yakni:\
+      <br> \
+      <br> \
+      <b>Mempercepat Proses Pekerjaan</b>\
+      Sebuah pekerjaan akan bisa dipersingkat dengan memakai desain grafis, contoh sebuah proposal yang harus memaparkan setiap detail perusahaan tetapi dengan memakai desain grafis maka akan lebih dipersingkat dengan membuatnya dalam bentuk gambar atau kurva.\
+      <br> \
+      <br> \
+      <b>Dapat Menyampaikan Pesan Dalam Bentuk Grafis</b>\
+      <br> \
+      Untuk membuat pesan berupa suatu karya seni desain grafis tidaklah mudah, hal ini bisa dilakukan dengan mengikuti kursus desain grafis yang terpercaya agar pesan yang dibuat bisa tersampaikan kepada masyarakat.\
+      <br> \
+      <br> \
+      <b>Menjadi Tempat Pengungkapan Perasaan</b>\
+      <br> \
+      Setiap orang pasti mempunyai perasaan yang terkadang sulit untuk diungkapkan, sesudah belajar desain grafis di dumet school dengan suatu aplikasi photoshop atau adobe lainya bisa mengungkapkan perasaan dalam bentuk grafis.\
+      <br> \
+      <br> \
+      <b>Memberikan Hasil Gambar Yang Lebih Menarik Dan Indah</b>\
+      <br> \
+      Gambar yang dihasilkan dengan baik melalui jepretan kamera maupun karya tangan tidak selalu menghasilkan gambar yang diinginkan, dengan sentuhan desain grafis gambar tersebut akan lebih menarik dan indah di lihat.\
+      <br> \
+      <br> \
+      <b>Dapat Menghasillkan Uang</b>\
+      <br> \
+      Dengan suatu hasil desain yang sudah dibuat akan mempunyai nilai yang berharga, bayangkan saja logo-logo perusahaan yang dibuat dari aplikasi desain bukan sekedar bernilai ratusan ribu saja, bahkan ada yang nilainya milyaran.\
+      <br> \
+      <br> \
+      <b>Metode Desain</b>\
+      Metode desain yaitu sebuah cara yang dilakukan oleh desainer untuk menghasilkan sebuah karya desain. Beberapa metode yang sering digunakan diantaranya:\
+      <ul>\
+        <li>Explosing: Adalah mencari inspirasi dengan berpikir dengan kritis untuk mendapatkan sebuah desain yang belum pernah dibuat.</li>\
+        <li>Redefining: Adalah mengolah kembali sebuah desain supaya menjadi bentuk yang lebih baik dan berbeda</li>\
+        <li>Managing: Adalah menciptakan desain dengan berkelanjutan dan terus menerus</li>\
+        <li>Phototyping: Adalah memperbaiki dan atau memodifikasi desain warisan nenek moyang</li>\
+        <li>Trendspotting: Adalah membuat sebuah desain menurut tren yang sedang berkembang</li>\
+      </ul>',
+    'url': 'prinsip_prinsip_desain'
+  },
+  'pengertian_fungsi_tujuan_design': {
+    'title': 'Pengertian, Fungsi & Tujuan Desain',
+    'content': 'Menurut Etimologinya Desain berasal dari bahasa Inggris “Design” yang artinya rancangan, rencana atau reka rupa. Dari kata Design timbullah kata desain yang artinya mencipta, memikir atau merancang. Desain memiliki arti sebagai rancangan yang adalah susunan dari garis, bentuk, ukuran, warna dan juga nilai (value) dan benda yang dibuat menurut prinsip-prinsip desain “kata benda”. Desain bisa diartikan suatu proses merencanakan bentuk yang bertujuan agar benda yang dirancang, memiliki fungsi atau berguna dan juga memiliki nilai keindahan. Pengertian lain dari desain adalah sebuah sistem yang berlaku untuk seluruh jenis perancangan dimana titik beratnya dilaksanakan dengan melihat segala sesuau persoalan dengan tidak terpisah atau sendiri, tetapi sebagai suatu kesatuan yang mana satu masalah dengan lainya saling terhubung. Pada sisi lain, desain juga mempunyai arti sebagai perencanaan dalam membuat suatu objek, sistem, komponen atau struktur.\
+      <br> \
+      <br> \
+      <b>Fungsi Desain</b>\
+      <br> \
+      Adapun fungsi dari desain adalah sebagai berikut:\
+      <br> \
+      <ul>\
+        <li>Merupakan sebuah proses untuk membuat atau menciptakan obyek baru</li>\
+        <li>Merupakan sebuah alat untuk mengkomunikasikan suatu karya cipta baru seorang desainer kepada masyarakat umum</li>\
+        <li>Merupakan sebuah wadah untuk menampilkan objek-objek kepada masyarakat dengan suatu gambaran ataupun nyata</li>\
+        <li>Merupakan sebuah ilmu pengetahuan dan wawasan kepada manusia, supaya bisa mengerti bentuk dalam bentuk penggambaran bidang, ruang, susunan, konfigurasi, komposisi, nilai dan sebagainya.</li>\
+      </ul>\
+      <br> \
+      <br> \
+      <b>Tujuan Desain</b>\
+      <br> \
+      Menurut berbagai teori mengenai desain, terdapat beberapa tujuan yang hendak dicapai dari pembuatan desain. Beberapa tujuan itu diantaranya adalah sebagai berikut:\
+      <br> \
+      <ul>\
+        <li>Desain memiliki tujuan untuk menyesuaikan antara hasil desain dengan manusia sebagai penggunanya dengan menyadari tentang kelebihan keterbatasan dan juga kemampuan yang dimilikinya.</li>\
+        <li>Desain yang dipadu padankan dengan unsur-unsur seni dan teknologi yang bertujuan untuk meraih keamanan, kenyamanan dan keindahan</li>\
+        <li>Desain dibuat dengan bertujuan supaya bisa meningkatkan efisiensi, produktivitas dan kualitas hidup manusia.</li>\
+      </ul>',
+    'url': 'pengertian_fungsi_tujuan_design'
+  },
+  'fungsi_dan_manfaat_fashion_dalam_kehidupan': {
+    'title': 'Fungsi dan Manfaat Fashion Dalam Kehidupan',
+    'content': 'Dalam kehidupan sehari-hari terutama di jaman serba modern seperti sekarang ini, kebutuhan fashion semakin meningkat. Hal tersebut dapat dilihat dari semakin banyaknya trand fashion yang muncul dan digandrungi, serta semakin banyaknya orang yang mencari informasi artikel fashion terbaru.\
+      <br> \
+      <br> \
+      Fashion tidak hanya identik dengan kaum wanita dewasa dan remaja saja, namun juga pria dan anak-anak. Namun tidak dipungkiri dunia fashion memang identik dengan kaum wanita. Busana wantia terbaru memiliki variasi model yang unik dan menarik.\
+      <br> \
+      <br> \
+      Membahas fashion wanita memang tidak ada habisnya, selalu ada hal yang menarik untuk dibahas. Mulai dari gaya dan model berpakaian, sepatu, tas, dompet, makeup, aksesoris hingga gaya dan tata rambut.\
+      <br> \
+      <br> \
+      Selalu tampil cantik dan trendy merupakan keinginan semua wanita. Itu sebabnya wanita sangat memperhatikan penampilannya dan mengikuti perkembangan dunia fashion terbaru. Mengikuti perkembangan fashion bisa dengan cara membaca artikel fashion terbaru serta mencari gambaran dari foto-foto para model.\
+      <br> \
+      <br> \
+      <h4>Fungsi Fashion</h4>\
+      <br> \
+      Fashion saat ini tidak sekedar untuk memenuhi kebutuhan dalam kehidupan sehari-hari, namun lebih dari itu fashion menjadi salah satu gaya hidup. Hal tersebut tidak lepas dari posisi wanita jaman sekarang yang memiliki peranan yang kompleks dalam kehidupan masyarakat.\
+      <br> \
+      <br> \
+      Wanita tidak lagi identik dengan rumah dan dapur, sekarang banyak wanita yang turut serta membantu perekonomian keluarga dengan bekerja sebagai wanita karier atau menjadi pembisnis. Dari situlah muncul fashion yang menunjang kebutuhan sehari-hari, karier dan pekerjaan wanita. Dengan demikian wanita bisa berpenampilan modis dan trendy sesuai dengan kepribadian dan karakternya masing-masing.\
+      <br> \
+      <br> \
+      <h4>Manfaat Fashion</h4>\
+      <br> \
+      Ada beberapa manfaat fashion dalam kehidupan sehari-hari, diantaranya:\
+      <br> \
+      <br> \
+      • Memberikan rasa percaya diri\
+      <br> \
+      <br> \
+      Secara psikologis setiap wanita yang penampilannya menarik dan nyaman lebih memiliki percaya diri dibandingkan dengan wanita yang penampilannya tidak menarik. Rasa percaya diri mempengaruhi semangat dalam mengerjakan berbagai macam pekerjaan dan beraktivitas. Jadi gunakanlah pakaian yang cocok dan sesuai dengan acara yang Anda datangi, selain itu faktor kenyamanan sangatlah penting dalam upaya membangun kepercayaan diri Anda.\
+      <br> \
+      <br> \
+      • Memberikan daya tarik tersendiri\
+      <br> \
+      <br> \
+      Menggunakan pakaian dan berpenampilan menarik bisa memberikan daya tarik yang memikat. Apalagi jika dipadu dengan sopan dan ramah akan memunculkan aura yang menarik membuat orang merasa nyaman saat bicara dan dekat dengan Anda.\
+      <br> \
+      <br> \
+      • Membuat bahagia\
+      <br> \
+      <br> \
+      Memanjakan diri sendiri tidak hanya dengan belanja pakaian dan barang-barang baru. Namun rasa kepuasan menggunakan fashion yang menjadi perhatian bisa membuat perasaan bahagia. Demikian pembahasan mengenai artikel fashion, terutama mengenai fungsi dan manfaat fashion dalam kehidupan sehari-hari. Semoga bermanfaat!',
+    'url': 'fungsi_dan_manfaat_fashion_dalam_kehidupan'
+  },
+  'tips_busana_pesta_untuk_siang_hari': {
+    'title': 'Tips Busana Pesta untuk Siang hari',
+    'content': '<ol>\
+    <li>Pakailah pakaian yang dapat menyerap keringat untuk pesta siang hari. Hindari bahan-bahan yang panas yang menyebabkan rasa tidak nyaman. Jika pesta diadakan di dalam ruangan dengan full AC, anda bisa mengenakan pakaian dengan bahan yang sedikit panas.</li>\
+    <br> \
+    <li>Kenakan pakaian dengan model yang simple. Sederhana namun tetap menarik. Berekspresi dengan warna-warna terang bsia menjadi pilihan yang tepat bagi anda. Namun, hindari pakaian dengan detail border atau payet berlebih.</li>\
+    <br> \
+    <li>Pakailah busana yang memiliki motif cerah dengan warna-warna yang lembut. Hindari warna hitam saat menghadiri resepsi pada siang hari. Selain membuat anda terlihat seperti orang yang sedang berkabing, warna hitam dapat memicu rasa gerah yang ekstream apa lagi jika pesta diadakan di ruangan terbuka.</li>\
+    <br> \
+    <li>Gunakan bros, kalung, gelang, atau selendang untuk menunjang penampilan anda. Jangan lupa untuk menyesuaikan warna pakaian dengan sepatu serta clutch agar tampil matching.</li>\
+    </ol>',
+    'url': 'tips_busana_pesta_untuk_siang_hari'
+  },
+  'tips_busana_pesta_untuk_malam_hari': {
+    'title': 'Tips Busana Pesta untuk Malam Hari',
+    'content': '<ol>\
+    <li>Busana muslim gaya glamour bisa menjadi pilihan Anda.</li>\
+    <br> \
+    <li>Untuk pesta di malam hari kenakan busana pesta yang berunsur gelap seperti abu-abu, merah, hijau atau biru tua</li>\
+    <br> \
+    <li>Gunakan baju yang tidak menonjolkan potongan didalam desainnya. Dan pastikan baju itu pas di tubuh anda.</li>\
+    <br> \
+    <li>Kenakan jilbab yang simple namun terlihat glamour ketika dipaka. Bahan yang cocok dipakai terbuat dari bahan yang mengkilap. Jika tidak ada, anda bisa menambahkan aksesories jilbab seperi bros berukuran kecil.</li>\
+    <br> \
+    <li>Cari desain yang terlihat mewah dengan motif yang simple dan tidak terlalu mencolok.</li>\
+    <br> \
+    <li>Pilihlah aksesories yang menarik perhatian, seperti kalung dengan mutiara berwarna agar terlihat semakin glamour dan mewah. Namun, jangan memakai aksesories yang berukuran besar, pilihlah yang berukuran sedang atau kecil.</li>\
+    </ol>',
+    'url': 'tips_busana_pesta_untuk_malam_hari'
+  },
+  '8_tips_dalam_memilih_baju_untuk_pesta_dan_sesuai_bentuk_tubuh': {
+    'title': '8 Tips dalam Memilih Baju untuk Pesta dan sesuai bentuk tubuh',
+    'content': '1. Pilih pakaian sesuai dengan tema\
+    <br> \
+    Pemilik acara seringkali menyebutkan dress code dalam suatu pesta. Usahakan untuk mengikuti aturan yang sudah disepakati. Langkah tersebut akan membuat Anda dianggap sopan dan menghargai pemilik pesta.\
+    <br> \
+    <br> \
+    2. Pilih pakaian sesuai dengan kelompok usia tuan rumah dan undangan lainnya\
+    <br> \
+    Dalam kasus pesta dengan teman seusia, mungkin Anda lebih bebas dalam berekspresi. Namun dalam pesta orang tua, kenakan busana yang wajar, sopan, dan tidak berlebihan.\
+    <br> \
+    <br> \
+    3. Pilih pakaian sesuai dengan lokasi pesta\
+    <br> \
+    Jika undangan Anda tidak menyebutkan secara spesifik dari dress code, Anda bisa menilai etika berpakaian yang sesuai untuk pesta dengan lokasinya. Misalnya, jika pesta dilakukan di dekat pantai, pemilihan busana semi formal atau maxi dress bisa menjadi pilihan. Begitupun jika pesta dilakukan di hotel mewah, Anda diperkenankan untuk mengenakan gaun.\
+    <br> \
+    <br> \
+    4. Hindari menggunakan busana yang terlalu seksi\
+    <br> \
+    Hindari busana yang terlalu menonjolkan tubuh Anda secara berlebihan. Tampil sopan akan membuat Anda terlihat anggun.\
+    <br> \
+    <br> \
+    5. Hindari menggunakan aksesoris yang berlebihan\
+    <br> \
+    Sebaiknya jangan menggunakan aksesoris secara berlebihan. Untuk membuat Anda terlihat lebih menawan, pilihlah perhiasan yang simpel saja.\
+    <br> \
+    <br> \
+    6. Ketahuilah konsep dan tema acara.\
+    <br> \
+    Konsep dan tema suatu acara pesta bisa apa saja sesuai si pembuat acara. Seperti tema beach party, rock and roll, cocktail party ,flower party, halloween party dan red party. Tidak sedikit pesta yang mengharuskan kita memakai dresscode. Oleh karena itu kita harus memperhatikan dan mengetahui betul tema dan konsep acara karena Anda pasti tidak ingin salah kostum kan?\
+    <br> \
+    <br> \
+    7. Kenali bentuk dan tinggi tubuh Anda.\
+    <br> \
+    Banyak wanita yang walaupun menggunakan baju mahal dan mewah tapi terlihat memalukan dan aneh. Bukan karena salah kostum atau Anda jelek tetapi karena gaun yang Anda pakai tidak sesuai dengan bentuk tubuh dan tinggi Anda.\
+    <br> \
+    <br> \
+    8. Perhatikan pelengkap penampilan\
+    <br> \
+    Selain gaun yang Anda kenakan, Anda juga harus tau pelengkap penampilan seperti high heels dan aksesoris seperti perhiasan serta tatanan rambut Anda.',
+    'url': '8_tips_dalam_memilih_baju_untuk_pesta_dan_sesuai_bentuk_tubuh'
+  },
+  'tips_berpakaian_agar_terlihat_tampil_muda': {
+    'title': 'Tips Berpakaian Agar Terlihat Tampil Muda',
+    'content': '1. Gunakan Warna Cerah\
+      <br> \
+      Warna cerah adalah cerminan dari anak remaja dan masa muda. Maka dari itu, penting bagi kamu yang ingin terlihat lebih muda untuk memilih pakaian dengan warna-warna yang cerah, seperi merah, biru, pink, kuning dan lain sebagainya.\
+      <br> \
+      <br> \
+      2. Hindari Terlalu Banyak Motif\
+      <br> \
+      Kamu boleh saja jika ingin bermain dengan motif, namun jangan terlalu berlebihan ya. Motif yang terlalu ramai dapat membuat penampilan kamu terlihat tua. Jika kamu ingin menggunakan pakaian bermotif, cobalah menggunakan satu jenis motif saja di salah satu fashion item kamu.\
+      <br> \
+      <br> \
+      3. Jangan Gunakan Warna Gelap.\
+      <br> \
+      Warna gelap seperti hitam, abu-abu dan sejenisnya justru membuat penampilan kamu terkesan lebih tua dari umur kamu.\
+      <br> \
+      <br> \
+      Tips : Jika kamu ingin menggunakan fashion item bewarna hitam/gelap, sebaiknya kenakan hanya untuk bagian bawah, seperti jeans dan sisanya, seperti top, shoes, dan aksesoris pakailah warna-warna yang cerah.\
+      <br> \
+      <br> \
+      4. Warna Pastel\
+      <br> \
+      Semua designer sangat menyarankan warna pastel bagi kamu yang tidak menyukai warna-warna yang terlalu vibrant. Warna pastel sedang in di dunia fashion sejak beberapa tahun terakhir ini. Kamu bisa aplikasikan warna pastel dihampir seluruh fashion item yang kamu kenakan, seperti sweater, trousers, shoes, dan lainnya.\
+      <br> \
+      <br> \
+      5. Hindari Warna Coklat Tua\
+      <br> \
+      Coklat tua adalah warna yang tidak disarankan oleh banyak designer untuk looks yang satu ini. Hal itu akan berdampak pada penampilan kamu. Coklat tua melambangkan suasana yang vintage dan jadul. Maka dari itu, kamu sebaiknya menghindari warna yang satu ini.\
+      <br> \
+      <br> \
+      6. Bereksperimen dengan Cute Statement.\
+      <br> \
+      Motif yang lucu sedang happening, baik pria maupun wanita semuanya menggunakan cute things. Selain motif yang sudah ada pada fashion item kamu, kamu bisa menambahkan patches atau pin dengan bentuk yang super cute dan playful, seperti wink eyes motif pada kemeja, maupun kiss patches pada clutch kamu. Hal ini mampu meningkatkan level “young looks” kamu.\
+      <br> \
+      <br> \
+      7. Hati-hati dengan Colour Blocking!\
+      <br> \
+      Satu lagi tips tambahan untuk kamu. Karena style ini menekankan pada warna cerah, mungkin kamu berpikir bahwa warna cerah akan menimbulkan kesan yang norak. Sejatinya, style ini mirip dengan colour block style. Lalu, dimana perbedaannya? Colour block style memiliki rumus. Tidak semua warna bisa kamu tabrak dengan warna lainya.',
+    'url': 'tips_berpakaian_agar_terlihat_tampil_muda'
+  },
+  '4_tips_pria_kurus_dalam_berpakaian_agar_terlihat_menarik': {
+    'title': '4 Tips Pria Kurus Dalam Berpakaian Agar Terlihat Menarik',
+    'content': 'Kita orang-orang kurus yang mencoba mengenakan banyak pakaian agar pakaian itu bisa terlihat bagus untuk kita. Saya memiliki perjuangan yang sama sampai saya mulai mengangkat beban dan makan lebih banyak. Ketika saya sangat kurus, saya mengambil beberapa tips dan trik untuk terlihat lebih baik dalam berpakaian dan itulah yang ingin saya bagikan kepada anda. Jika itu terdengar menarik, mari kita mulai!\
+      <br> \
+      <br> \
+      <b>1. Layering adalah kunci utamanya</b>\
+      <br> \
+      Ini hanya akal sehat. Ketika Anda terlalu kurus, Anda ingin terlihat lebih berisi. Karena itu, menambahkan lapisan untuk menambah volume penampilan anda menggunakan jaket, sweater, dan kemeja agar anda bisa berlatih layering dan karena bentuk tubuh anda, Anda tidak akan berisiko terlihat seperti manusia salju.\
+      <br> \
+      <br> \
+      <b>2. Bagian lengan anda harus pas</b>\
+      <br> \
+      Bahkan jika ada sedikit risiko kelebihan kain, lengan anda akan membayar untuk hal itu. Bahkan dengan memiliki lengan berotot. jika saya melakukan kesalahan ini, itu akan memiliki efek yang sama pada saya. Selalu pastikan bahwa bagian lengan ketat dan tidak pernah longgar, ini memastikan bahwa lengan Anda tidak terlihat seperti ranting.\
+      <br> \
+      <br> \
+      <b>3.Gunakan warna lebih ringan</b>\
+      <br> \
+      <br> \
+      Warna yang lebih ringan seperti putih, abu-abu terang atau krem, membuat anda terlihat lebih berat. Ini ada hubungannya dengan warna dan bagaimana orang-orang menipu anda secara berbeda sesuai dengan warna pakaian yang anda kenakan.\
+      <br> \
+      Di sisi lain, anda memiliki warna seperti navy atau hitam yang membuat Anda terlihat ekstra ramping dan ramping, yang akan membuat Anda secara keseluruhan bingkai tubuh tampak lebih tipis. Namun, ini semua masalah yang dapat anda perbaiki dengan sedikit usaha dan pengetahuan.\
+      <br> \
+      <br> \
+      <b>4. Hindari menggunakan aksesoris yang berukuran besar</b>\
+      <br> \
+      Jika anda seorang yang kurus, maka anda harus memastikan bahwa aksesoris yang anda kenakan tidak terlalu berat atau besar karena akan kontras dengan bingkai tubuh kurus anda dan menjadi sorotan.\
+      <br> \
+      Jadi, hindari jam tangan dengan wajah besar, menambahkan gelang atau cincin yang besar. Jaga perhiasan dan aksesori anda sedikit mungkin dan sederhana, itu akan lebih proporsional dengan penampilan anda.',
+    'url': '4_tips_pria_kurus_dalam_berpakaian_agar_terlihat_menarik'
+  }
+
+
 }
