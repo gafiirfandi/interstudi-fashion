@@ -1,6 +1,6 @@
 .page-artikel {
   /* height: 300vh; */
-  background-color: #92272d;
+  background-color: #fafafa;
   padding-bottom: 100px;
 }
 .main-div-pengajar {
@@ -35,11 +35,14 @@
 }
 
 .pembatas-main-artikel {
-  background-color: #761f25;
+  background-color: #fafafa;
   height: 70px;
   text-align: center;
 
   box-shadow: 2px 18px 10px 5px rgba(0, 0, 0, 0.22);
+}
+.konten-card-artikel {
+  margin-top: 40px;
 }
 
 /* konten isi card */

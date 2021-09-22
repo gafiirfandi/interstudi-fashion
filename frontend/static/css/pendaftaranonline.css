@@ -1,5 +1,5 @@
 .page-faq {
-  background-color: #a7242c;
+  background-color: #fafafa;
   min-height: 180vh;
   padding-bottom: 100px;
 }
@@ -196,7 +196,6 @@ select {
 }
 
 /* Radio button  */
-
 
 @media (max-width: 800px) {
   .page-faq {

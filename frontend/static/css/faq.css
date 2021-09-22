@@ -1,6 +1,6 @@
 .page-faq {
   min-height: 150vh;
-  background-color: #a7242c;
+  background-color: #fafafa;
   padding-bottom: 100px;
 }
 .main-div-faq {
@@ -36,6 +36,7 @@
 }
 
 .content-title-design-faq {
+  color: #eb0f28;
   text-align: right;
   line-height: 0.7;
   font-size: 70px;

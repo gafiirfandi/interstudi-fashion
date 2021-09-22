@@ -45,7 +45,7 @@ li {
 }
 
 .footer-index {
-  background-color: #ac2931;
+  background-color: #670806;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   color: white;
@@ -64,7 +64,8 @@ li {
   border-bottom-right-radius: 50px; */
 
   /* background-image: url("../img/background-base.png"); */
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/background-base.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/background-base.png");
   background-size: cover;
   height: 400px;
   background-repeat: no-repeat;
@@ -159,15 +160,22 @@ li {
 }
 
 .nama-pengajar {
+  color: #eb0f28;
+  font-weight: 1000;
+  font-size: 45px;
 }
 .role-pengajar {
+  color: #eb0f28;
 }
 
 .deskripsi-pengajar {
+  color: #111111;
 }
 .angka-content-pengajar {
+  color: #111111;
 }
 .row-content-profile {
+  color: #111111;
 }
 .jenis-angka-content-pengajar {
   margin-top: 22px;
@@ -189,14 +197,18 @@ li {
   color: white;
 }
 .content-materi-design {
+  color: #eb0f28;
   text-align: center;
   line-height: 0.7;
-  font-size: 60px;
+  font-size: 50px;
+  font-weight: 1000;
 }
 .content-materi-design-2 {
+  color: #eb0f28;
   text-align: right !important;
   line-height: 0.7;
-  font-size: 60px;
+  font-size: 50px;
+  font-weight: 1000;
 }
 
 /* section konten materi design  */
@@ -244,12 +256,12 @@ li {
 }
 
 .circle-div {
-  display: flex; 
-  width: 120px; 
-  height: 120px; 
-  background-color: white; 
-  border-radius: 50%; 
-  margin: auto; 
+  display: flex;
+  width: 120px;
+  height: 120px;
+  background-color: white;
+  border-radius: 50%;
+  margin: auto;
   align-items: center;
 }
 
