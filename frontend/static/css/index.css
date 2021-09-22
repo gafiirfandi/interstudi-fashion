@@ -14,6 +14,10 @@ p,
 li {
   font-family: "Times New Roman" !important;
 }
+html {
+  scroll-behavior: smooth;
+  transition: 3.5s ease-in-out;
+}
 
 .navbar {
   background-color: transparent;
@@ -67,7 +71,7 @@ li {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/background-base.png");
   background-size: cover;
-  height: 400px;
+  height: auto;
   background-repeat: no-repeat;
 }
 
@@ -91,6 +95,20 @@ li {
 .button-explore {
   padding: 10px 40px;
   background-color: #fb1f1f;
+}
+.button3 {
+  background-color: #fb1f1f;
+  color: #fafafa;
+  border-radius: 40px;
+  padding: 5px 20px;
+  border: 2px solid #f44336;
+  transition: 0.3s ease-in-out;
+}
+
+.button3:hover {
+  background-color: transparent;
+  color: #f44336;
+  transition: 0.3s ease-in-out;
 }
 
 .a-explore {
@@ -135,8 +153,9 @@ li {
 }
 
 /* Section Pengajar */
+
 .about-pengajar {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 .about-left {
   margin-right: 0px !important;
